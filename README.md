@@ -9,7 +9,25 @@
 | Pubic Hair | [Mai-C1-Edit-Pubic-Hair-v1.0.1.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.1/Mai-C1-Edit-Pubic-Hair-v1.0.1.zip) |
 | No Pubic Hair | [Mai-C1-Edit-No-Pubic-Hair-v1.0.1.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.1/Mai-C1-Edit-No-Pubic-Hair-v1.0.1.zip) |
 
-![Mai C1 Edit preview](images/preview.jpg)
+## Screenshots / 游戏截图
+
+<table>
+  <tr>
+    <td><a href="images/screenshots/1364780_2.jpg"><img src="images/screenshots/1364780_2.jpg" alt="Mai C1 Edit screenshot 1" width="420"></a></td>
+    <td><a href="images/screenshots/1364780_7.jpg"><img src="images/screenshots/1364780_7.jpg" alt="Mai C1 Edit screenshot 2" width="420"></a></td>
+  </tr>
+  <tr>
+    <td><a href="images/screenshots/1364780_8.jpg"><img src="images/screenshots/1364780_8.jpg" alt="Mai C1 Edit screenshot 3" width="420"></a></td>
+    <td><a href="images/screenshots/1364780_9.jpg"><img src="images/screenshots/1364780_9.jpg" alt="Mai C1 Edit screenshot 4" width="420"></a></td>
+  </tr>
+  <tr>
+    <td><a href="images/screenshots/1364780_130.jpg"><img src="images/screenshots/1364780_130.jpg" alt="Mai C1 Edit screenshot 5" width="420"></a></td>
+    <td><a href="images/screenshots/1364780_131.jpg"><img src="images/screenshots/1364780_131.jpg" alt="Mai C1 Edit screenshot 6" width="420"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="images/screenshots/1364780_134.jpg"><img src="images/screenshots/1364780_134.jpg" alt="Mai C1 Edit screenshot 7" width="420"></a></td>
+  </tr>
+</table>
 
 ## 中文
 
