@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+.release/
+*.blend
+*.blend[0-9]
+*.zip
+*.mesh.*
+*.tex.*
+__pycache__/
+.env
+.env.*
