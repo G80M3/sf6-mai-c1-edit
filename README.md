@@ -2,7 +2,7 @@
 
 **Pubic Hair / No Pubic Hair**
 
-[Download v1.0.0](https://github.com/Diamond-Fountain-Works/sf6-mai-c1-edit/releases/tag/v1.0.0) · [sf6mods Project](https://github.com/orgs/Diamond-Fountain-Works/projects/1)
+[Download v1.0.0](https://github.com/Diamond-Fountain-Works/sf6-mai-c1-edit/releases/tag/v1.0.0)
 
 | Variant | Download |
 | --- | --- |
