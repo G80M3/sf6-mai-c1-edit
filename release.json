@@ -15,7 +15,7 @@
       "sha256": "6ed109efeaa29639122d121cc6657e8c3912dae0e5b45b5a2e19a1b5e87a45fc",
       "native_mesh_sha256": "f4e21bb8936024cb61f53217a5731c2b8921064178902d308665591c7a55d5fb",
       "fluffy_name": "Mai C1 PublicHair",
-      "download_url": "https://github.com/Diamond-Fountain-Works/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-Pubic-Hair-v1.0.0.zip"
+      "download_url": "https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-Pubic-Hair-v1.0.0.zip"
     },
     {
       "id": "no-pubic-hair",
@@ -25,7 +25,7 @@
       "sha256": "f08ce7818b251e191ba97ab0f874a535e6e13612b09d543073b5d536c06d1a78",
       "native_mesh_sha256": "bee0fc394d4c95ef6f47378c96cd8f52da98a31c629c68ee7349a27429f866d5",
       "fluffy_name": "Mai C1 NoPublicHair",
-      "download_url": "https://github.com/Diamond-Fountain-Works/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-No-Pubic-Hair-v1.0.0.zip"
+      "download_url": "https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-No-Pubic-Hair-v1.0.0.zip"
     }
   ]
 }
