@@ -2,12 +2,14 @@
 
 **Pubic Hair / No Pubic Hair**
 
-[Download v1.0.0](https://github.com/G80M3/sf6-mai-c1-edit/releases/tag/v1.0.0)
+[Download v1.0.1](https://github.com/G80M3/sf6-mai-c1-edit/releases/tag/v1.0.1)
 
 | Variant | Download |
 | --- | --- |
-| Pubic Hair | [Mai-C1-Edit-Pubic-Hair-v1.0.0.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-Pubic-Hair-v1.0.0.zip) |
-| No Pubic Hair | [Mai-C1-Edit-No-Pubic-Hair-v1.0.0.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.0/Mai-C1-Edit-No-Pubic-Hair-v1.0.0.zip) |
+| Pubic Hair | [Mai-C1-Edit-Pubic-Hair-v1.0.1.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.1/Mai-C1-Edit-Pubic-Hair-v1.0.1.zip) |
+| No Pubic Hair | [Mai-C1-Edit-No-Pubic-Hair-v1.0.1.zip](https://github.com/G80M3/sf6-mai-c1-edit/releases/download/v1.0.1/Mai-C1-Edit-No-Pubic-Hair-v1.0.1.zip) |
+
+![Mai C1 Edit preview](images/preview.jpg)
 
 ## 中文
 
