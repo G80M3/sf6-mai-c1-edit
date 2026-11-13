@@ -1,5 +1,9 @@
 # Changelog
 
+## Author credit update — 2026-11-13
+
+- Author: `G80M3 on GitHub / Diamond Fountain Works on Nexus Mods`.
+
 ## v1.0.1 — 2026-11-05
 
 - Add the shared preview image to both variants.

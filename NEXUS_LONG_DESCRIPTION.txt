@@ -1,0 +1,79 @@
+GitHub：Diamond Fountain Works · G80M3
+Diamond Fountain Works：https://github.com/Diamond-Fountain-Works
+G80M3：https://github.com/G80M3
+Mai C1 Edit：https://github.com/G80M3/sf6-mai-c1-edit
+
+Author: G80M3 on GitHub / Diamond Fountain Works on Nexus Mods
+
+我也做软件和工具开发，欢迎到 Diamond Fountain Works 和我的个人 GitHub G80M3 看看其他项目。
+I also develop software and tools. Explore my other projects at Diamond Fountain Works and on my personal GitHub, G80M3.
+
+中文
+
+简介
+
+Mai C1 Edit 是针对不知火舞 C1 的服装造型修改，收窄胸前布料，调整前片轮廓，并缩短 Obi。
+提供 Pubic Hair（有毛）和 No Pubic Hair（无毛）两个独立安装包。两个版本的服装与身体模型一致，仅附加毛发不同。
+
+Installation instructions｜安装方法
+
+1. 关闭游戏，下载你想使用的一个版本 ZIP。
+2. 打开 Fluffy Mod Manager，选择 Street Fighter 6。
+3. 将 ZIP 添加到管理器中，启用对应 MOD。
+4. 启动游戏，选择 Mai C1。
+
+同一时间使用一个 Mai C1 安装包。切换毛发版本或其他 Mai C1 服装 MOD 时，先停用当前版本，再启用新版本。
+
+Main features｜主要特点
+
+- 收窄胸前布料，调整上半身服装轮廓。
+- 调整前片形状与比例。
+- 缩短 Obi 高度，调整腰部服装比例。
+- 沿用原有贴图与骨骼绑定。
+- 提供有毛、无毛两个独立安装包。
+- 通过 Fluffy Mod Manager 安装与管理。
+
+Requirements｜使用要求
+
+- PC 版 Street Fighter 6。
+- 游戏中可使用 Mai。
+- Fluffy Mod Manager。
+
+Shout outs｜鸣谢
+
+G80M3 on GitHub / Diamond Fountain Works on Nexus Mods：模型调整、版本整理与 MOD 打包。
+
+English
+
+Description
+
+Mai C1 Edit is a costume edit for Shiranui Mai C1, with narrower top panels, a revised tare and a shorter Obi.
+Two standalone packages are available: Pubic Hair and No Pubic Hair. Both use the same clothing and body meshes; only the added hair differs.
+
+Installation instructions
+
+1. Close the game and download one ZIP with your preferred hair option.
+2. Open Fluffy Mod Manager and select Street Fighter 6.
+3. Add the ZIP and enable the mod.
+4. Launch the game and select Mai C1.
+
+Use one Mai C1 package at a time. Disable the current package before switching hair options or installing another Mai C1 costume mod.
+
+Main features
+
+- Narrower top panels with a revised upper-body silhouette.
+- Adjusted front-panel shape and proportions.
+- Reduced Obi height for revised waist proportions.
+- Original textures and skeletal bindings retained.
+- Separate Pubic Hair and No Pubic Hair packages.
+- Installation and management through Fluffy Mod Manager.
+
+Requirements
+
+- Street Fighter 6 on PC.
+- Access to Mai in-game.
+- Fluffy Mod Manager.
+
+Shout outs
+
+G80M3 on GitHub / Diamond Fountain Works on Nexus Mods — model edits, variant preparation and mod packaging.
